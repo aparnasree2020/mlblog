@@ -1,23 +1,23 @@
-title: Hey, I am Manu
+title: Hey, I am Aparna Sree, Data Scientist
 description: > # this means to ignore newlines until "baseurl:"
-  My jekyll testing.
+  My blog for my ml experiments.
 permalink: ':title/'
-baseurl: "/my_jekyll" # the subpath of your site, e.g. /blog
+baseurl: "/mlblog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: Manu C # add your name
-author-img: david-freeman.jpg # add your photo
-about-author: I am a web developer focusing on front-end development. Always hungry to keep learning. # add description
+author: Aparna Sree # add your name
+author-img: aparna.png # add your photo
+about-author: I am a Data Scientist with a passion for learning. # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
-social-github: artemsheludko # add your Github handle
-social-linkedin: # add your Linkedin handle
-social-email: # add your Email address
+social-github: aparnasree2020 # add your Github handle
+social-linkedin: https://www.linkedin.com/in/aparna-sree/# add your Linkedin handle
+social-email: aparnasree11217.blog@gmail.com# add your Email address
 
 # Disqus
-discus-identifier: mr-brown # add your discus identifier
+discus-identifier: # add your discus identifier
 
 # Tracker
 analytics: # Google Analytics

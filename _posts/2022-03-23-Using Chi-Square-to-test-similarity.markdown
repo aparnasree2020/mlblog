@@ -13,6 +13,6 @@ The task is to create simulated data.
 
 ## What does Chi Square output looks like
 
-![Joint Distribution of two variables]({{site.baseurl}}/assets/img/jointdistribution.jpg)
+![Joint Distribution of two variables]({{site.baseurl}}/assets/img/2_chitest.jpg)
 
 Joint Distribution 
